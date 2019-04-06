@@ -1,3 +1,3 @@
 # Defect-Detection
 
-I could not appload the the weights of the CNN model... try to train it again or contact me if you want to have mine. 
+I could not appload the the weights of the CNN model... try to train it again or contact me if you want to have mine. You can read the Report about the implementation details. 
